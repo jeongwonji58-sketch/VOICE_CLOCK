@@ -10,8 +10,8 @@ UNIHIKER_K10 k10;
 // Wi-Fi / Clock
 // ============================================================
 // 실제 Wi-Fi 정보로 바꿔주세요.
-const char* WIFI_SSID = "Kkdnd";
-const char* WIFI_PASSWORD = "winwin0321@";
+const char* WIFI_SSID = "와이파이 아이디";
+const char* WIFI_PASSWORD = "비밀번호";
 
 const char* TZ_INFO = "KST-9";
 const char* NTP_1 = "time.google.com";
